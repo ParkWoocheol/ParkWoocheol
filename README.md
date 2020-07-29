@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there I'm mobile software engineer ✨
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkWoocheol)](https://github.com/ParkWoocheol)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrparkwc@gmail.com)](mailto:mrparkwc@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parkwoocheol/)](https://www.linkedin.com/in/parkwoocheol/)
+[![Resume](https://img.shields.io/static/v1?label=Simple&message=Resume&color=blue&link=https://parkwoocheol.com)](https://parkwoocheol.com)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ParkWoocheol&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ParkWoocheol/ParkWoocheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
